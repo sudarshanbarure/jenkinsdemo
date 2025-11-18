@@ -1,1 +1,1 @@
-echo print("This is from branch1")
+print("This is from branch1")
